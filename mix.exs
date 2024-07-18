@@ -24,7 +24,7 @@ defmodule PhoenixSlime.Mixfile do
       {:phoenix, "~> 1.4"},
       {:phoenix_html, "~> 2.13 or ~> 3.0"},
       {:jason, "~> 1.0", optional: true},
-      {:slime, "~> 1.0"},
+      {:slime, "~> 1.3"},
       {:ex_doc, ">= 0.0.0", only: :dev},
       {:earmark, ">= 0.0.0", only: :dev},
       {:credo, ">= 0.0.0", only: [:dev, :test]},
